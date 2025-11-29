@@ -1,15 +1,15 @@
 # Chemical-Injection
 Specification for the Chemical Injection Management System
 
-##About
+## About
 
 Registration system and association of chemical product tanks to their respective wells for field technicians and sales manager.
 
 
-##Methodolgy Recommendation
+## Methodolgy Recommendation
 Scrum - to ensure flexibility, transparency, and incremental delivery.
 
-##Suggested KPis
+## Suggested KPis
 Tank autonomy (days until 20% capacity)
 Chemical consumption rate by well
 Forecast of required replenishment
