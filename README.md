@@ -31,7 +31,7 @@ Scrum - to ensure flexibility, transparency, and incremental delivery.
 
 **Won't Have:** Offline mode
 
-<img width="1536" height="1024" alt="Simulação de priorização" src="https://github.com/user-attachments/assets/1cac8ed2-f254-453b-a8c3-349a8327cd9b" />
+<img width="1536" height="1024" alt="Simulação de priorização" src="https://github.com/user-attachments/assets/6d94a680-6d3a-4747-9c56-9050989f2c93" />
 
 ## Suggested KPis
 **Tank autonomy (days until 20% capacity)** - helps anticipate when stocks are about to run out, enabling proactive restocking and preventing unexpected downtime.
