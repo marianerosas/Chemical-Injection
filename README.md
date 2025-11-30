@@ -13,7 +13,7 @@ Registration system and association of chemical product tanks to their respectiv
 
 ## Lo-fi prototype
 
-[Prototype](https://aistudio.google.com/apps/drive/1Ualyu0uvSmBa_fZb_psX3qyNgxvWYMbl?showPreview=true&showAssistant=true)
+[Prototype](https://aistudio.google.com/apps/drive/1Ualyu0uvSmBa_fZb_psX3qyNgxvWYMbl?fullscreenApplet=true&showPreview=true)
 
 ## Methodology Recommendation
 Scrum - to ensure flexibility, transparency, and incremental delivery.
