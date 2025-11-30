@@ -8,6 +8,13 @@ Registration system and association of chemical product tanks to their respectiv
 ## [Project deliverables](Project%20deliverables.docx)
 
 ## [Project activities](Project%20activities.docx)
+## Project Schedule
+1. Planning and analysis (December 2025)
+2. System Design (December 2025)
+3. Development (From January to April 2026)
+4. Testing (April 2026)
+5. Deployment (May 2026)
+6. Training and Support (May 2026)
 
 ## [Business requirements and rules](Business%20requirements%20and%20rules.docx)
 
