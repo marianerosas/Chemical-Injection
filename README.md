@@ -1,4 +1,4 @@
-# Chemical-Injection
+# Chemical-Injection System
 Specification for the Chemical Injection Management System
 
 ## About
