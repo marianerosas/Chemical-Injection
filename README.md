@@ -10,15 +10,16 @@ Registration system and association of chemical product tanks to their respectiv
 Scrum - to ensure flexibility, transparency, and incremental delivery.
 
 ## Suggested KPis
-Tank autonomy (days until 20% capacity)
+Tank autonomy (days until 20% capacity) - helps anticipate when stocks are about to run out, enabling proactive restocking and preventing unexpected downtime.
 
-Chemical consumption rate by well
+Chemical consumption rate by well - lets you monitor how much chemical each well uses individually, which helps detect inefficiencies, abnormal consumption or wells needing special attention.
 
-Forecast of required replenishment
+Injection rate - facilitates optimization and cost control, helps prevent operational issues
 
-Site-level chemical usage efficiency
+Site-level chemical usage efficiency -to minimizing waste, reducing costs and ensuring optimal dosing.
 
-Equipment utilization indicator
+Equipment utilization indicator - tracks how well the injection equipment is used (pumps, tanks, pipelines), enabling better maintenance planning, asset utilization and reliability of the system
+
 ## General comments
 
 
