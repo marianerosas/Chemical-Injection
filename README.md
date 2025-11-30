@@ -5,6 +5,15 @@ Specification for the Chemical Injection Management System
 
 Registration system and association of chemical product tanks to their respective wells for field technicians and sales manager.
 
+## Project deliverables
+
+## Project activities
+
+## Business requirements and rules
+
+## Lo-fi prototype
+
+[Prototype](https://aistudio.google.com/apps/drive/1Ualyu0uvSmBa_fZb_psX3qyNgxvWYMbl?showPreview=true&showAssistant=true)
 
 ## Methodology Recommendation
 Scrum - to ensure flexibility, transparency, and incremental delivery.
