@@ -22,6 +22,17 @@ Registration system and association of chemical product tanks to their respectiv
 ## Methodology Recommendation
 Scrum - to ensure flexibility, transparency, and incremental delivery.
 
+## Suggested features and priorization
+**Must Have:** Tank registry, Well registry, Products registry Associations, Restrictions, User roles
+
+**Should Have:** Consumption forecast, injection dashboards
+
+**Could Have:** Alerts, Site comparison analytics, AI Analysis
+
+**Won't Have:** Offline mode
+
+<img width="1536" height="1024" alt="Simulação de priorização" src="https://github.com/user-attachments/assets/1cac8ed2-f254-453b-a8c3-349a8327cd9b" />
+
 ## Suggested KPis
 **Tank autonomy (days until 20% capacity)** - helps anticipate when stocks are about to run out, enabling proactive restocking and preventing unexpected downtime.
 
